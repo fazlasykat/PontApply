@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pont Apply</string>
+    <string name="first_text">This is the first text </string>
+    <string name="second_text">This is the second text </string>
+</resources>
